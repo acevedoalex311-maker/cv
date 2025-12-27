@@ -77,6 +77,3 @@ Especialista de datos enfocado en el ecosistema **Python, SQL y BI**, con sólid
 * **Francés:** B1 (Intermedio)
 * **Chino:** A1 (Básico)
 
----
-
-**Would you like me to create a text-based version optimized specifically for ATS (Applicant Tracking Systems) scanners?**
